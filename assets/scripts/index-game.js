@@ -1,3 +1,4 @@
+// GDWEB //
 // editable config stuff
 
 if (window.mainColor == null) {
@@ -195,9 +196,9 @@ class A extends Phaser.Scene {
 
     this.load.text("level_21", "assets/levels/21.txt");
     this.load.audio("fingerdash", "assets/music/Fingerdash.mp3");
-
-    this.load.text("level_22", "assets/levels/22.txt");
-    this.load.audio("dash", "assets/music/Dash.mp3");
+ 
+    this.load.text("level_6508283", "assets/levels/5703070.txt");
+    this.load.audio("GoldenHaze", "assets/music/Polargeist.mp3");
 
     this.load.text("level_99", "assets/levels/99.txt");
     this.load.audio("every_end", "assets/music/EveryEnd.mp3");
@@ -210,9 +211,6 @@ class A extends Phaser.Scene {
 
     this.load.text("level_5703070", "assets/levels/5703070.txt");
     this.load.audio("the_nightmare", "assets/music/Polargeist.mp3");
-
-    this.load.text("level_6508283", "assets/levels/5703070.txt");
-    this.load.audio("GoldenHaze", "assets/music/Polargeist.mp3");
 
     this.load.audio("explode_11", "assets/sfx/explode_11.ogg");
     this.load.audio("endStart_02", "assets/sfx/endStart_02.ogg");
