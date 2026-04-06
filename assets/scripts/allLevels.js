@@ -125,12 +125,6 @@ window.allLevels = [
 	    "level_21",
 	    "MDK"
     ],
-    [/*
-        "dash",
-	    "Dash",
-	    "level_22",
-	    "MDK"
-    ],*/
     [
         "every_end",
 	    "Every End",
