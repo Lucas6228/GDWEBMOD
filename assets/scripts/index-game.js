@@ -12,21 +12,11 @@ window.currentShip = "ship_44";
 window.currentBall = "player_ball_23"
 window.currentWave = "dart_01"
 window.currentlevel = [
-	"retray", // internal level name
-	"Retray", // proper level name
-	"level_100",        // level id in assets/levels
-	"Detious"   // person who made the song
+ 	"stereo_madness", // internal level name
+	"Stereo Madness", // proper level name
+	"level_1",        // level id in assets/levels
+	"Forever Bound"   // person who made the song
 ];
-
-
-
-
-// window.currentlevel = [
-// 	"stereo_madness", // internal level name
-//	"Stereo Madness", // proper level name
-//	"level_1",        // level id in assets/levels
-//	"Forever Bound"   // person who made the song
-//];
 window.showHitboxes = false;
 window.noClip = false; // experimental
 
