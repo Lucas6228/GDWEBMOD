@@ -14,7 +14,7 @@ window.currentWave = "dart_01"
 window.currentlevel = [
 	"retray", // internal level name
 	"Retray", // proper level name
-	"level_22",        // level id in assets/levels
+	"level_100",        // level id in assets/levels
 	"Detious"   // person who made the song
 ];
 
