@@ -124,13 +124,13 @@ window.allLevels = [
 	    "Fingerdash",
 	    "level_21",
 	    "MDK"
-    ],/*
+    ],
     [
         "dash",
 	    "Dash",
 	    "level_22",
 	    "MDK"
-    ],*/
+    ],
     [
         "every_end",
 	    "Every End",
@@ -158,7 +158,7 @@ window.allLevels = [
 	[
 		"retray"
 		"Retray"
-		"level_6508283"
+		"level_23"
 		"Detious"
 	],
 ]
