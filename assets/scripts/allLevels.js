@@ -128,7 +128,7 @@ window.allLevels = [
 	[
 		"retray"
 		"Retray"
-		"level_22"
+		"level_100"
 		"Detious"
 	],
     [
@@ -140,7 +140,7 @@ window.allLevels = [
     [
         "bloodbath",
 	    "Bloodbath",
-	    "level_100",
+	    "level_32767",
 	    "Dimrain47"
     ],
     [
