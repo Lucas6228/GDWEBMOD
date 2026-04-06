@@ -196,9 +196,6 @@ class A extends Phaser.Scene {
     this.load.text("level_21", "assets/levels/21.txt");
     this.load.audio("fingerdash", "assets/music/Fingerdash.mp3");
 
-    this.load.text("level_22", "assets/levels/22.txt");
-    this.load.audio("dash", "assets/music/Dash.mp3");
-
     this.load.text("level_99", "assets/levels/99.txt");
     this.load.audio("every_end", "assets/music/EveryEnd.mp3");
 
