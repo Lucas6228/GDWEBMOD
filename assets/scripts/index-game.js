@@ -15,7 +15,7 @@ window.currentlevel = [
 	"retray", // internal level name
 	"Retray", // proper level name
 	"level_22",        // level id in assets/levels
-	"PLACEHOLDER"   // person who made the song
+	"Detious"   // person who made the song
 ];
 
 
