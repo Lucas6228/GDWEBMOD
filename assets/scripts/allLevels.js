@@ -125,6 +125,12 @@ window.allLevels = [
 	    "level_21",
 	    "MDK"
     ],
+	[
+		"retray"
+		"Retray"
+		"level_22"
+		"Detious"
+	],
     [
         "every_end",
 	    "Every End",
@@ -149,10 +155,4 @@ window.allLevels = [
 	    "level_137409445",
 	    "DJ-Nate"
     ],
-	[
-		"retray"
-		"Retray"
-		"level_23"
-		"Detious"
-	],
 ]
