@@ -211,6 +211,9 @@ class A extends Phaser.Scene {
     this.load.text("level_5703070", "assets/levels/5703070.txt");
     this.load.audio("the_nightmare", "assets/music/Polargeist.mp3");
 
+    this.load.text("level_6508283", "assets/levels/5703070.txt");
+    this.load.audio("retray", "assets/music/Polargeist.mp3");
+	  
     this.load.audio("explode_11", "assets/sfx/explode_11.ogg");
     this.load.audio("endStart_02", "assets/sfx/endStart_02.ogg");
     this.load.audio("playSound_01", "assets/sfx/playSound_01.ogg");
