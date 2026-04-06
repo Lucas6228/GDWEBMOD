@@ -155,4 +155,10 @@ window.allLevels = [
 	    "level_137409445",
 	    "DJ-Nate"
     ],
+	[
+		"retray"
+		"Retray"
+		"level_6508283"
+		"Detious"
+	],
 ]
